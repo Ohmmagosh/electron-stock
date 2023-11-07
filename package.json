@@ -1,0 +1,15 @@
+{
+  "name": "stock-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ./src/main.js"
+  },
+  "author": "Phatcharaphol Suanprom",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^27.0.3",
+    "tailwindcss": "^3.3.5"
+  }
+}
